@@ -1,0 +1,63 @@
+You must answer at least 4 questions, but the remaining ones are optional. The main goal of this file is to get you thinking critically about your own work, but we will also use these self reflections at the end of the semester when we do our internal review of the course.
+
+ArrayDeque:
+
+Q: Give an example of at least one idea from the staff solution that would have made your solution better (if any).
+
+A: I would use the ArrayDeque to define the private classes earlier instead of in the Comparator.
+
+Q: What's something you felt proud of in your code, if anything?
+
+A: I decided to use modulo in order to cycle through the array as it would allow me to cut down significant amounts of the code, especially if the code goes back to the front.
+
+Q: What's something that was particularly inelegant in your code, if anything?
+
+A: While I did fix it with the modulo, I believe that a lot of the code was inelegant, especially with the large number of "if" statements I had before fixing.
+
+Q: What did you learn by talking to your partner about writing ArrayDeque?
+
+A:
+
+Q: What do you wish you would have known before writing ArrayDeque, if anything?
+
+A: I wish I understood the importance of writing my own test cases as it helped fix a lot of the bugs. However, since I did not really use my own test-cases before, it was annoying when trying to fix issues that would've been solved easier.
+
+Q: If you wrote ArrayDeque again, what would you do differently, if anything?
+
+A:
+
+-----
+
+LinkedListDeque:
+
+Q: Give an example of at least one idea from the staff solution that would have made your solution better (if any).
+
+A: I would have separated the code within the lines to make my solution easier as it was very confusing to think about when written straight down.
+
+Q: What's something you felt proud of in your code, if anything?
+
+A: I was able to answer a lot of the questions in the LinkedListDeque pretty intuitively and understood the majority of the assignment right away after getting the purpose of sentinel.
+
+Q: What's something that was particularly inelegant in your code, if anything?
+
+A: 
+
+Q: What did you learn by talking to your partner about writing LinkedListDeque?
+
+A: A lot of the people I talked to did not have multiple sentinel nodes, but rather have one sentinel node. I did not think about sentinel nodes like this and thought it was rather interesting and intuitive.
+
+Q: What do you wish you would have known before writing LinkedListDeque, if anything?
+
+A: I wish I understood sentinel nodes a lot sooner as I had to rewatch a lot of the lectures before.
+
+Q: If you wrote LinkedListDeque again, what would you do differently, if anything?
+
+A:
+
+-----
+
+Meta:
+
+Q: Did you like this design review process? Anything we should do differently next time?
+
+A: Yes. I would suggest having a simpler explanation as I found myself reading the instructions over and over again.
